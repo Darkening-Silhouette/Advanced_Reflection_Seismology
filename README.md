@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Darkening-Silhouette/Advanced_Reflection_Seismology/blob/main/JMAG111_PointSourceDemo.ipynb)
